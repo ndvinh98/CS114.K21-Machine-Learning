@@ -2,4 +2,4 @@
 
 Nguyen Dinh Vinh 16521582
 
-<img src="cv-1.jpg" ><br>
+<img src="CV/cv-1.jpg" ><br>
