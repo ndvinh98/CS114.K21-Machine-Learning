@@ -7,4 +7,4 @@ Mô tả quá trình training: https://github.com/ndvinh98/CS114.K21-Machine-Lea
 <br> <br>
 Báo cáo hoàn chỉnh: https://github.com/ndvinh98/CS114.K21-Machine-Learning/blob/master/FinalProject/report.pdf
 <br> <br>
-Slide thuyết trình: https://github.com/ndvinh98/CS114.K21-Machine-Learning/blob/master/FinalProject/SentimentClassification.pptx
+Slide thuyết trình: https://github.com/ndvinh98/CS114.K21-Machine-Learning/blob/master/FinalProject/SlideSeminar.pdf
